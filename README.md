@@ -46,5 +46,5 @@ Exoplanets are planets that orbit stars beyond our Sun. Their discovery and stud
 
 ## Credits
 - [Mandisa Love Tshabalala](https://github.com/Mandisalovet)
-- [Sipho Khoza](https://github.com/Mandisalovet)
+- [Sipho Khoza](https://github.com/siphokhoza)
 
